@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "531719704526",
+    "project_id": "news-18bca",
+    "storage_bucket": "news-18bca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531719704526:android:82eb2d42aa429017c2a59f",
+        "android_client_info": {
+          "package_name": "com.nutan.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531719704526-ehdj9mt5nhvtte4n74r3aloofnb9nj6d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nutan.newsapp",
+            "certificate_hash": "26d006173a277191c24835ca050c34133033bb22"
+          }
+        },
+        {
+          "client_id": "531719704526-jko2fk9919nmr4honcrojg1en6vigmgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgOB4F62B9zEEw3Ry5R-rMuvaJmW1ATuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531719704526-jko2fk9919nmr4honcrojg1en6vigmgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
